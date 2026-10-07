@@ -64,3 +64,4 @@ Después de configurar, sigue la guía normal:
 ---
 
 **Luego avisa al grupo:** "Repo listo. Clonen y lean `guia.md` en GitHub."
+![Resultado Integrante 2](img/captura_Socrate.png)
