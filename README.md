@@ -1,4 +1,4 @@
-<img width="1365" height="647" alt="image" src="https://github.com/user-attachments/assets/1a6ba047-51f4-4441-9a39-99e1c3cdabd6" />## Integrantes y roles
+Integrantes y roles
 
 Complete esta tabla al final del taller.
 
